@@ -1,0 +1,10 @@
+numpy
+pandas
+Flask
+scikit-learn
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision --extra-index-url https://download.pytorch.org/whl/cpu
+torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+requests
+Pillow
+gunicorn == 20.0.4
